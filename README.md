@@ -4,7 +4,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-en%developpement-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-en%Developpement-orange?style=for-the-badge)
 
 ---
 
